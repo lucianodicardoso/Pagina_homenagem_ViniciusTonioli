@@ -1,0 +1,1 @@
+Página simples para exercitar os conhecimentos aprendidos com HTML, CSS e JAVASCRIPT. 
